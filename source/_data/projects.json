@@ -1,0 +1,17 @@
+[
+  {
+     "name":"json2ts",
+     "url":"https://github.com/ChpShy/json2ts",
+     "desc":"A powerful util for generating TS type from JSON"
+  },
+  {
+     "name":"git-auto-config",
+     "url":"https://github.com/ChpShy/git-auto-config",
+     "desc":"Auto config your user.name / user.email in different git repos"
+  },
+  {
+     "name":"ts-template",
+     "url":"https://github.com/ChpShy/ts-template",
+     "desc":"ts template that support output `cjs / mjs / umd`"
+  }
+]
