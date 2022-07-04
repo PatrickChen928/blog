@@ -12,6 +12,6 @@
   {
      "name":"ts-template",
      "url":"https://github.com/ChpShy/ts-template",
-     "desc":"ts template that support output `cjs / mjs / umd`"
+     "desc":"TS template that support output `cjs / mjs / umd`"
   }
 ]

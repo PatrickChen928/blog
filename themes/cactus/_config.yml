@@ -16,8 +16,9 @@ direction: ltr
 nav:
   home: /
   about: /about/
-  archives: /archives/
+  Archives: /archives/
   projects: /projects/
+  Online: /online/
 
 
 # Links to your social media accounts.
@@ -83,7 +84,7 @@ logo:
   height: 50
   url: /images/logo.jpg
   gravatar: false
-  grayout: true
+  grayout: false
 
 # Customize the favicons.
 # Cactus supports a limited set of the three most important icons:
@@ -99,10 +100,10 @@ favicon:
     url: /images/favicon.ico
     gravatar: false
   android:
-    url: /images/favicon-192x192.png
+    url: /images/logo.jpg
     gravatar: false
   apple:
-    url: /images/apple-touch-icon.png
+    url: /images/logo.jpg
     gravatar: false
 
 # The color scheme that should be used to highlight codeblocks.
@@ -123,7 +124,7 @@ page_width: 48
 ##############################################################################
 
 # Enable or disable the RSS feed.
-rss: false
+rss: true
 
 # Turn your web pages into graph objects (see http://ogp.me).
 open_graph:
@@ -148,7 +149,7 @@ disqus:
 
 # Fill in your Utterances data to enable Utterances comments
 utterances:
-  enabled: false
+  enabled: true
   repo: owner/githubrepo
   issue_term: pathname
   label: Comment
